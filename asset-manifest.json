@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/leaflet-deployed-version/static/css/main.bc911d0e.css",
+    "main.js": "/leaflet-deployed-version/static/js/main.feb1da23.js",
+    "index.html": "/leaflet-deployed-version/index.html",
+    "main.bc911d0e.css.map": "/leaflet-deployed-version/static/css/main.bc911d0e.css.map",
+    "main.feb1da23.js.map": "/leaflet-deployed-version/static/js/main.feb1da23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc911d0e.css",
+    "static/js/main.feb1da23.js"
+  ]
+}
